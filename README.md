@@ -1,2 +1,0 @@
-# Eduman-final
-Eduman final 
